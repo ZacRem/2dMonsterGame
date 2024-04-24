@@ -1,0 +1,50 @@
+Golem,15,2
+Theif,10,1
+Ogre,12,2
+Sniper,5,8
+Bomber,2,10
+Goblin,10,1
+Dragon,15,8
+Kruzer,1,45
+Lion,25,3
+Tiger,10,2
+Homelander,50,2
+Minotaur,5,9
+Cyclops,15,1
+Devil,100,100
+ghoul,2,1
+Giant,20,2
+Vampire,5,1
+Zombie,1,1
+Leviathan,30,20
+Chupacabra,1,2
+Pillow Pet,1,0
+Animal Crackers,1,0
+Yeti,10,3
+Coco Puffs Bird,2,100
+Siren,6,2
+Wendigo,3,1
+Boogeyman,20,5
+Godzilla,50,25
+Kraken,15,15
+Leprechaun,10,1
+Bat,1,1
+Ted,10,1
+Demon,5,1
+Medusa,3,10
+Cam The Ram,1,1
+Ralphie,20,20
+Bigfoot,20,1
+The Deep,3,7
+Werewolf,5,5
+Big Fish,10,10
+Small Fish,1,1
+The Killer Couch,15,2
+Evil Jesus,30,10
+Osama Bin ladin,1,1
+Evil God,10000,10000
+Zach Remer,1,10
+Taewoo Hong,1,10
+Shulman,7,15
+Dart Goblin,1,4
+Hog Rider,3,7

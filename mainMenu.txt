@@ -1,0 +1,16 @@
+-MAIN_MENU
+[1]. Start,[2]. Exit
+-SECONDARY_MENU
+[1]. Go through tutorial,[2]. Skip tutorial
+-INVENTORY_MENU
+[1]. Use an item,[2]. Equip weapon,[3]. Unequip weapon,[4]. Throw away an item,[5]. Go back
+-FIGHTING_MENU
+[1]. Atack,[2]. Defend,[3]. Do nothing,[4]. Flee
+-UPGRADE_MENU
+[1]. Health,[2]. Attack
+-LOOTING_MENU
+[1]. Take an item. ,[2]. Put item in storage,[3]. Swap Items,[4]. Exit
+-END_MENU
+[1]. Yes,[2]. No
+-RESTART_GAME
+[1]. Yes,[2]. No

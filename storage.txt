@@ -1,0 +1,4 @@
+Player Inventory, 8
+Small Loot Chest, 5
+Medium Loot Chest, 10
+Big Loot Chest, 15

@@ -1,0 +1,14 @@
+Dolphin,Misc,0,0,0,0,Large shiny squshy loud playful smart bubbles creatures.
+Sea Cucumber,Misc,0,0,0,0,They can turn inside out they live on the ocean floor potato like.
+Potting Soil,Misc,0,0,0,0,Homes for plants.
+Beoseot,Food,0,0,0,2,Restores 2 hunger.
+Sprite,Drink,0,0,2,0,Restores 2 thirst.
+Adhesive Plaster,Healing,0,5,0,0,Band that heals 5 hp.
+Short Sword,Weapon,1,0,0,0,Short Sword: Melee weapon that deals 1 bonus damage.
+Long Sword,Weapon,2,0,0,0,Long Sword: Melee weapon that deals 2 bonus damage.
+Shotgun,Weapon,2,0,0,0,Shotgun: Ranged weapon that deals 2 bonus damage.
+Sniper,Weapon,10,0,0,0,Sniper: Ranged weapon that deals massive 10 bonus damage.
+Bow and Arrow,Weapon,2,0,0,0,Bow and Arrow: Ranged weapon that deals 2 bonus damage.
+Baseball Bat,Weapon,3,0,0,0,Baseball Bat: Melee weapon that deals 3 bonus damage.
+Grenade,Weapon,5,0,0,0,Grenade: Ranged weapon that deals bonus 5 damage.
+Katana,Weapon,4,0,0,0,Katana: Melee weapon that deals bonus 4 damage. 
